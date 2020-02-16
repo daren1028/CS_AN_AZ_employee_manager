@@ -12,10 +12,6 @@ The use of Data transfer objects (Dtos) using [Auto Mapper](https://automapper.o
 
 ![Screenshot](resources/EmployeeCreate.png)
 
-## Demo
-
-See a demo of the application running on Azure here: [Employee Manager on Azure](http://empmanagercore.azurewebsites.net) Or [TinyUrl](https://tinyurl.com/r8hpe5e).
-
 ## Development Stack
 
 The application was built using the following tools & frameworks:
@@ -43,11 +39,7 @@ In order to test/use this application, you will need the following:
 
 ## Installation
 
-Grab the repository either by downloading the zip file or clone the project:
-
-```sh
-~$ git clone https://github.com/johnmcraig/employee-manager
-```
+Grab the repository either by downloading the zip file or clone the project.
 
 After cloning or unzipping the files, navigate to the directory containing the solution file:
 
